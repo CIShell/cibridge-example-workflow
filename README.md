@@ -7,8 +7,8 @@ An example repository showing how to use CIBridge and Sci2 algorithms using Pyth
 
 # Steps to run the script
 
-1. Install the following dependencies using pip.
-`pip install requests`
+1. Install the following dependencies using pip. <br/>
+`pip install requests` <br/>
 `pip install py-graphql-client`
 
 2. Run the isi_worklow.py file by passing the input `isi` file, the output path with filename for the `authors.csv` and the third optional argument output path with filename for the `nodes.csv`.
